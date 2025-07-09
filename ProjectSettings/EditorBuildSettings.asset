@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 436436e10e856754ea68a66ef5f92906
+  - enabled: 1
+    path: Assets/Scenes/MULTIPLAYER.unity
+    guid: 17aeb8048bcee86439827eb321cc7023
+  - enabled: 1
+    path: Assets/Scenes/cutscene.unity
+    guid: c5bc54ab58ae2aa4a8c4a8f3b487fcdc
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: c1ba2a6e8556b9343bd159e9eb714967
+  - enabled: 1
+    path: Assets/Scenes/tranz1.unity
+    guid: eb277ce718dca3c48949db887cd8dfc9
+  - enabled: 1
+    path: Assets/Scenes/JOC1.unity
+    guid: 5d076b82b0cb79e41b60b6b59c8df40a
+  - enabled: 1
+    path: Assets/Scenes/tranz2.unity
+    guid: 05c6cb75262b2a94cb22cb6dda25fe63
+  - enabled: 1
+    path: Assets/Scenes/JOC2.unity
+    guid: b08699f44da0174498fce32078022096
+  - enabled: 1
+    path: Assets/Scenes/tranz3.unity
+    guid: 99c739bc46097be4cb7d1a35237d6f2e
+  - enabled: 1
+    path: Assets/Scenes/JOC3.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/win.unity
+    guid: b0c9b95095a6fd64d95393e75b6cc88f
+  - enabled: 1
+    path: Assets/Scenes/busted.unity
+    guid: 9596a8c5dad7926448b30cdc5c5fbeeb
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

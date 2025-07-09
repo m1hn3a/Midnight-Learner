@@ -1,0 +1,10 @@
+Library/
+Temp/
+Obj/
+Build/
+*.mp4
+*.mov
+*.avi
+*.exe
+*.zip
+*.rar

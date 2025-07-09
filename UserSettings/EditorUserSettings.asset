@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    GraphicsSettingsInspector_UserSettings:
+      value: 18134705175a055722080a3115371d4a0d55006876786860616b0471b8b07a68ffab74f9ee2a3a30300cea1a11320d0beb1a0c25f7060f494b4cc80018eb09361fc211cb1f862d19c51d19dcc413d6ade0d8ddfcddf9f4d9d29195fcfde6ebeae6f0a9c9afa6f8c5b89ff7a1aacececac4eba4d7c9d28bda
+      flags: 0
+    RecentlyUsedSceneGuid-0:
+      value: 5a085751560c0b5859585c7b47215a4415154f2e7d2975657f7a4a37b4e6663d
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5304575006575e0e5f585e204222064415154a782f2a703429284f66e4e5626b
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 5b520d0503545b0d0c0c0a2715770748154f4d2c7d7d7e627a7d4a35b4e1646a
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 01010c505c0c0f0f590a0d7241740b444f4f1e29297b74607a714d61b0b06d6e
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 0000560757545f5e555b5974127a0c4445151c7b79712369282b4a62b6b9626f
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 0101575f070c5c0b545b0d7416270944124e4d79757b2367782b4b30e1b86c3e
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 000456055001085958560d2742225e44174f1b7e2d7020632f7d4564e4e3303b
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5702025256030c0a5d0b547746740a4413164e722d7e70352b7c1b6ab0b9646e
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 56550451535751090f5e0f20477a5a4447154e7a2e7e2465742a4537e4b46439
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 52065503070d590f550c0f27157b0944454e40787b2d24637f781e30b5b0666b
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 4
+  m_StandbyImportWorkerCount: 2
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_VCScanLocalPackagesOnConnect: 1
+  m_ArtifactGarbageCollection: 1
+  m_CompressAssetsOnImport: 1
